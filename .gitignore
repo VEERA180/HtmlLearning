@@ -1,0 +1,10 @@
+# Sensitive and local runtime files
+**/credentials.txt
+**/logs/
+**/*.log
+
+# Archives
+*.zip
+# Python cache
+**/__pycache__/
+*.pyc

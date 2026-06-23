@@ -1,0 +1,11 @@
+# Never commit real credentials
+credentials.txt
+
+# Runtime state / logs - local only
+bot_state.json
+KILL_SWITCH
+logs/*.log
+
+# Python
+__pycache__/
+*.pyc
