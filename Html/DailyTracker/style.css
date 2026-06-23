@@ -1,0 +1,42 @@
+body
+{
+    background-color: powderblue;
+}
+
+h1
+{
+    text-align: center;
+}
+
+input
+{
+    cursor: pointer;
+    padding: 8px;
+}
+
+button
+{
+   cursor: pointer;
+    padding: 8px; 
+}
+
+.container
+{
+    width: 300px;
+    margin: 100px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+li
+{
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.completed
+{
+    text-decoration: line-through;
+    color: gray;
+}
